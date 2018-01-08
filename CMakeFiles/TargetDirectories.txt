@@ -1,0 +1,3 @@
+/home/artem/5sem/Computer Graphic/TASK 4/CMakeFiles/rebuild_cache.dir
+/home/artem/5sem/Computer Graphic/TASK 4/CMakeFiles/edit_cache.dir
+/home/artem/5sem/Computer Graphic/TASK 4/CMakeFiles/main.dir

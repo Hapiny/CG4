@@ -1,0 +1,190 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/artem/5sem/Computer Graphic/TASK 4/Camera.cpp
+Camera.h
+/home/artem/5sem/Computer Graphic/TASK 4/Camera.h
+glm/glm.hpp
+-
+
+/home/artem/5sem/Computer Graphic/TASK 4/Camera.h
+common.h
+/home/artem/5sem/Computer Graphic/TASK 4/common.h
+LiteMath.h
+/home/artem/5sem/Computer Graphic/TASK 4/LiteMath.h
+
+/home/artem/5sem/Computer Graphic/TASK 4/LiteMath.h
+math.h
+-
+stdlib.h
+-
+memory
+-
+vector
+-
+
+/home/artem/5sem/Computer Graphic/TASK 4/Mesh.cpp
+Mesh.h
+/home/artem/5sem/Computer Graphic/TASK 4/Mesh.h
+
+/home/artem/5sem/Computer Graphic/TASK 4/Mesh.h
+common.h
+/home/artem/5sem/Computer Graphic/TASK 4/common.h
+LiteMath.h
+/home/artem/5sem/Computer Graphic/TASK 4/LiteMath.h
+ShaderProgram.h
+/home/artem/5sem/Computer Graphic/TASK 4/ShaderProgram.h
+vector
+-
+
+/home/artem/5sem/Computer Graphic/TASK 4/Model.cpp
+Model.h
+/home/artem/5sem/Computer Graphic/TASK 4/Model.h
+
+/home/artem/5sem/Computer Graphic/TASK 4/Model.h
+glad/glad.h
+-
+SOIL/SOIL.h
+-
+glm/glm.hpp
+-
+glm/gtc/matrix_transform.hpp
+-
+stb_image.h
+/home/artem/5sem/Computer Graphic/TASK 4/stb_image.h
+assimp/Importer.hpp
+-
+assimp/scene.h
+-
+assimp/postprocess.h
+-
+Mesh.h
+/home/artem/5sem/Computer Graphic/TASK 4/Mesh.h
+ShaderProgram.h
+/home/artem/5sem/Computer Graphic/TASK 4/ShaderProgram.h
+LiteMath.h
+/home/artem/5sem/Computer Graphic/TASK 4/LiteMath.h
+string
+-
+fstream
+-
+sstream
+-
+iostream
+-
+map
+-
+vector
+-
+
+/home/artem/5sem/Computer Graphic/TASK 4/ShaderProgram.cpp
+ShaderProgram.h
+/home/artem/5sem/Computer Graphic/TASK 4/ShaderProgram.h
+
+/home/artem/5sem/Computer Graphic/TASK 4/ShaderProgram.h
+unordered_map
+-
+common.h
+/home/artem/5sem/Computer Graphic/TASK 4/common.h
+LiteMath.h
+/home/artem/5sem/Computer Graphic/TASK 4/LiteMath.h
+
+/home/artem/5sem/Computer Graphic/TASK 4/common.h
+iostream
+-
+fstream
+-
+string
+-
+glad/glad.h
+-
+
+/home/artem/5sem/Computer Graphic/TASK 4/main.cpp
+common.h
+/home/artem/5sem/Computer Graphic/TASK 4/common.h
+ShaderProgram.h
+/home/artem/5sem/Computer Graphic/TASK 4/ShaderProgram.h
+Camera.h
+/home/artem/5sem/Computer Graphic/TASK 4/Camera.h
+Mesh.h
+/home/artem/5sem/Computer Graphic/TASK 4/Mesh.h
+Model.h
+/home/artem/5sem/Computer Graphic/TASK 4/Model.h
+GLFW/glfw3.h
+-
+SOIL/SOIL.h
+-
+random
+-
+ctime
+-
+assimp/Importer.hpp
+-
+assimp/scene.h
+-
+assimp/postprocess.h
+-
+
+/home/artem/5sem/Computer Graphic/TASK 4/stb_image.h
+stb_image.h
+/home/artem/5sem/Computer Graphic/TASK 4/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+dependencies/include/GLAD/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+dependencies/include/GLAD/glad/glad.h
+windows.h
+-
+stddef.h
+-
+KHR/khrplatform.h
+-
+inttypes.h
+-
+inttypes.h
+-
+inttypes.h
+-
+stdint.h
+-
+stdint.h
+-
+inttypes.h
+-
+
